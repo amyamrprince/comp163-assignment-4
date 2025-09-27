@@ -4,7 +4,7 @@
 This program was created for COMP-163.
 
 - Overview
-This game is a semester-life simulator where players make decisions about their course load, study strategy, and lifestyle choices. Each decision changes the player’s GPA, study hours, social points, and stress level, ultimately leading to different semester outcomes. The reflecting the challenges of balancing academics, social life, and well-being as a college student.  
+This game is a semester life simulator where players make decisions about their course load, study strategy, and lifestyle choices. Each decision changes the player’s GPA, study hours, social points, and stress level, leading to different semester outcomes. Reflecting the challenges of balancing academics, social life, and well-being as a college student.  
 
 - Branching Concepts Demonstrated
 Step 1: Variable Initialization  
@@ -19,7 +19,7 @@ Demonstrates membership operators (in, not in) and logical operators (and, or) t
 Step 4: Final Semester Assessment  
 Demonstrates identity operators (is, is not) with type checks, plus nested if statements to create multiple different endings.  
 
-## How to Run the Game
+-How to Run the Game
 1. Download or clone the repository.  
 2. Open comp163-assignment-4.py in a Python environment (such as VS Code, IDLE, or a terminal).  
 3. Run the program:  
