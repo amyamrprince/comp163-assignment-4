@@ -1,3 +1,4 @@
+
 student_name = "Amya"
 current_gpa = 3.5     # Float between 1.0-4.0
 study_hours = 20      #Integer (Ex. 25)
@@ -105,5 +106,6 @@ if type(current_gpa) is float and type(study_hours) is int and type(social_point
 
 else:
     print("Error: Variable types are not correct - check GPA, hours, points, stress.")
+
 
     
